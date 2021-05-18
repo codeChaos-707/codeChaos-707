@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeChaos-707
-- 👀 I’m interested in Web development,Cybersecurity and Gaming
-- 🌱 I’m currently learning JavaScript and more on the way 
+- 👀 I’m interested in full-stack engineering,Cybersecurity and some silly game development
+- 🌱 I’m learning Vanilla JavaScript now and more on the way 
 - 💞️ I’m looking to collaborate on different web project(client-side) and building fun stuff for the time being
 - 📫 Drop a mail to reach me and have a cup of cyber coffee with me - tr909shelby@gmail.com
 
